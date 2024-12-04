@@ -1,0 +1,9 @@
+[Unit]
+Description=Steam Desktop Insert
+
+[Service]
+# Command to execute when the service is started
+ExecStart=~/.local/bin/watch.py
+
+[Install]
+WantedBy=default.target
