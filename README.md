@@ -18,4 +18,5 @@ what those mean - don't worry, your good
 ## Shortcomings
 
 I have no idea if this works on other desktops (it should tho), also this will not give you applications shortcuts on the
-desktop. If someone wants to they are very welcome to contribute and extend the script to the Desktop folder as well.
+desktop. If someone wants to they are very welcome to contribute and extend the script to the Desktop folder as well. Also this
+is very much done quick and dirty but if you want an elegant solution just ask valve to finally fix the flatpak and make it official
